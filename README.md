@@ -1,4 +1,4 @@
-# java_dynamicweb_jquery_mobile
+# dynamicweb_jquery_mobile
 
 
-## Æú¸®ÅØ À¶±â¿ø ¸ğ¹ÙÀÏÆäÀÌÁö ¿¬½À
+## í´ë¦¬í… ìœµê¸°ì› ëª¨ë°”ì¼í˜ì´ì§€ ì—°ìŠµ
